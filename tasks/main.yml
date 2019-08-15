@@ -1,0 +1,9 @@
+- name: write executable
+  template:
+    src: cronic.j2
+    dest: /usr/local/bin/cronic
+    owner: root
+    group: root
+    mode: u=rwx,g=rwx,o=rx
+  tags:
+    - cronic
