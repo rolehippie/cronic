@@ -1,0 +1,3 @@
+cronic_destination: /usr/bin/cronic
+cronic_owner: root
+cronic_group: root

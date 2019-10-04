@@ -1,9 +1,9 @@
 - name: write executable
   template:
     src: cronic.j2
-    dest: /usr/bin/cronic
-    owner: root
-    group: root
+    dest: '{{ cronic_destination }}'
+    owner: '{{ cronic_owner }}'
+    group: '{{ cronic_group }}'
     mode: u=rwx,g=rwx,o=rx
   tags:
     - cronic
