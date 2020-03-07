@@ -1,3 +1,12 @@
+# Standards: 0.1
+---
+# @var cronic_destination:description: Destination for executable
 cronic_destination: /usr/bin/cronic
+
+# @var cronic_owner:description: User for the executable
 cronic_owner: root
+
+# @var cronic_group:description: Group for the executable
 cronic_group: root
+
+...

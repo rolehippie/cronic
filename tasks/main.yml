@@ -1,9 +1,13 @@
-- name: write executable
+# Standards: 0.1
+---
+- name: Write executable script
   template:
-    src: cronic.j2
-    dest: '{{ cronic_destination }}'
-    owner: '{{ cronic_owner }}'
-    group: '{{ cronic_group }}'
+    src: script.j2
+    dest: "{{ cronic_destination }}"
+    owner: "{{ cronic_owner }}"
+    group: "{{ cronic_group }}"
     mode: u=rwx,g=rwx,o=rx
   tags:
     - cronic
+
+...
