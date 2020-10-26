@@ -6,7 +6,7 @@
 # [![Build Status](https://img.shields.io/drone/build/rolehippie/cronic/master?logo=drone)](https://cloud.drone.io/rolehippie/cronic)
 # [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/cronic)](https://github.com/rolehippie/cronic/blob/master/LICENSE)
 #
-# Ansible role to install cronic, a cure for cron's chronic email problem
+# Ansible role to install the cronic executable.
 #
 # ## Sponsor
 #
@@ -19,7 +19,7 @@
 # @end
 galaxy_info:
   author: Thomas Boerger
-  description: Ansible role to install cronic, a cure for cron's chronic email problem
+  description: Ansible role to install the cronic executable
   license: Apache-2.0
   min_ansible_version: 2.10
   platforms:

@@ -2,7 +2,7 @@
 
 [![Source Code](https://img.shields.io/badge/github-source%20code-blue?logo=github&logoColor=white)](https://github.com/rolehippie/cronic) [![Build Status](https://img.shields.io/drone/build/rolehippie/cronic/master?logo=drone)](https://cloud.drone.io/rolehippie/cronic) [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/cronic)](https://github.com/rolehippie/cronic/blob/master/LICENSE) 
 
-Ansible role to install cronic, a cure for cron's chronic email problem 
+Ansible role to install the cronic executable. 
 
 ## Sponsor 
 
