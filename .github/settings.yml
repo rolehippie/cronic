@@ -1,7 +1,7 @@
 ---
 repository:
   name: cronic
-  description: Ansible role for cronic
+  description: Ansible role to install cronic, a cure for cron's chronic email problem
   topics: ansible, role, ansible-role
 
   private: false
