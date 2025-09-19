@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/rolehippie/cronic/compare/v2.0.0...v2.1.0) (2025-09-19)
+
+
+### Features
+
+* apply new repo structure and update linting ([eae500d](https://github.com/rolehippie/cronic/commit/eae500da3aa626332261778bd70075abce4af500))
+
 ## [2.0.0](https://github.com/rolehippie/cronic/compare/v1.0.0...v2.0.0) (2024-02-12)
 
 
