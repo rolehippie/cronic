@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.4.0](https://github.com/rolehippie/cronic/compare/v2.3.0...v2.4.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-lint to v26.8.0 ([#59](https://github.com/rolehippie/cronic/issues/59)) ([b3d1916](https://github.com/rolehippie/cronic/commit/b3d19165d9996616d68d1344f0f40ef81caa95b8))
+* **minor:** update dependency pipx:molecule to v26.8.0 ([#60](https://github.com/rolehippie/cronic/issues/60)) ([6f2cae5](https://github.com/rolehippie/cronic/commit/6f2cae553147635c308355cda7136b53b96712dc))
+* **patch:** update dependency pipx:ansible-core to v2.21.3 ([#57](https://github.com/rolehippie/cronic/issues/57)) ([629b20d](https://github.com/rolehippie/cronic/commit/629b20df97ff7b07a8c4f8856ec1443293c3b64e))
+* **patch:** update dependency pre-commit to v4.6.2 ([#58](https://github.com/rolehippie/cronic/issues/58)) ([d5f4003](https://github.com/rolehippie/cronic/commit/d5f40035152240c67d96027229480a76dc5d5dca))
+
 ## [2.3.0](https://github.com/rolehippie/cronic/compare/v2.2.0...v2.3.0) (2026-08-10)
 
 ### Dependencies
